@@ -1,0 +1,26 @@
+{
+  "name": "wepy-vant",
+  "version": "1.0.0",
+  "description": "wepy vant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScoLib/wepy-vant.git"
+  },
+  "keywords": [
+    "wepy",
+    "vant"
+  ],
+  "author": "klgd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScoLib/wepy-vant/issues"
+  },
+  "homepage": "https://github.com/ScoLib/wepy-vant#readme",
+  "devDependencies": {
+    "vant-weapp": "^0.5.10"
+  }
+}
